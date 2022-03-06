@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm [Frank Proulx](https://www.linkedin.com/in/frankproulx/)
 
-<!--
-**Frank-Proulx/Frank-Proulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm studying software developement at [Epicodus](https://www.epicodus.com/). While there I've studied:
 
-Here are some ideas to get you started:
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* Jquery
+* Ruby on Rails
+* Postgres
+* React
+* Redux
+* Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank-proulx&theme=tokyonight&show_icons=true)
+
+You can reach me at [frankproulx7@gmail.com](mailto:frankproulx7@gmail.com)
