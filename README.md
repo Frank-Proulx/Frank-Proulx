@@ -1,6 +1,6 @@
 # Hi, I'm [Frank Proulx](https://www.linkedin.com/in/frankproulx/)
 
-### I'm studying software developement at [Epicodus](https://www.epicodus.com/). While there I've studied:
+### I studied software developement at [Epicodus](https://www.epicodus.com/):
 
 * HTML
 * CSS
